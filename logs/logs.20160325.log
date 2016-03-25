@@ -1,0 +1,98 @@
+2016/03/25 17:07:50 [ZSXM-SCGO] INFO HTTP PROT :8080
+2016/03/25 17:07:59 [ZSXM-SCGO] INFO 未找到 URL  /chatol/data ,请求方式 GET
+2016/03/25 17:07:59 [ZSXM-SCGO] INFO open template/error404.html: The system cannot find the file specified.
+2016/03/25 17:07:59 [ZSXM-SCGO] INFO 未找到 URL  /favicon.ico ,请求方式 GET
+2016/03/25 17:07:59 [ZSXM-SCGO] INFO open template/error404.html: The system cannot find the file specified.
+2016/03/25 17:08:01 [ZSXM-SCGO] INFO 未找到 URL  /favicon.ico ,请求方式 GET
+2016/03/25 17:08:01 [ZSXM-SCGO] INFO open template/error404.html: The system cannot find the file specified.
+2016/03/25 17:09:27 [ZSXM-SCGO] INFO HTTP PROT :8080
+2016/03/25 17:09:29 [ZSXM-SCGO] INFO 未找到 URL  /favicon.ico ,请求方式 GET
+2016/03/25 17:09:44 [ZSXM-SCGO] INFO 未找到 URL  / ,请求方式 GET
+2016/03/25 17:10:05 [ZSXM-SCGO] INFO 未找到 URL  /favicon.ico ,请求方式 GET
+2016/03/25 17:11:16 [ZSXM-SCGO] INFO HTTP PROT :8080
+2016/03/25 17:11:22 [ZSXM-SCGO] INFO /
+2016/03/25 17:11:22 [ZSXM-SCGO] INFO 未找到 URL  / ,请求方式 GET
+2016/03/25 17:11:22 [ZSXM-SCGO] INFO /error404
+2016/03/25 17:15:58 [ZSXM-SCGO] INFO /
+2016/03/25 17:15:58 [ZSXM-SCGO] INFO 未找到 URL  / ,请求方式 GET
+2016/03/25 17:15:58 [ZSXM-SCGO] INFO /error404
+2016/03/25 17:16:55 [ZSXM-SCGO] INFO HTTP PROT :8080
+2016/03/25 17:17:02 [ZSXM-SCGO] INFO HTTP PROT :8080
+2016/03/25 17:17:10 [ZSXM-SCGO] INFO /
+2016/03/25 17:17:10 [ZSXM-SCGO] INFO /static/js/jquery/jquery-1.11.3.min.js
+2016/03/25 17:17:19 [ZSXM-SCGO] INFO /
+2016/03/25 17:17:19 [ZSXM-SCGO] INFO /static/js/jquery/jquery-1.11.3.min.js
+2016/03/25 17:17:19 [ZSXM-SCGO] INFO /static/favicon.ico
+2016/03/25 17:18:43 [ZSXM-SCGO] INFO /aaa
+2016/03/25 17:18:43 [ZSXM-SCGO] INFO 未找到 URL  /aaa ,请求方式 GET
+2016/03/25 17:18:43 [ZSXM-SCGO] INFO /error404
+2016/03/25 17:25:06 [ZSXM-SCGO] INFO HTTP PROT :8080
+2016/03/25 17:25:17 [ZSXM-SCGO] INFO /
+2016/03/25 17:25:17 [ZSXM-SCGO] INFO 未找到 URL  / ,请求方式 GET
+2016/03/25 17:25:17 [ZSXM-SCGO] INFO /error404
+2016/03/25 17:25:20 [ZSXM-SCGO] INFO /
+2016/03/25 17:25:20 [ZSXM-SCGO] INFO 未找到 URL  / ,请求方式 GET
+2016/03/25 17:25:20 [ZSXM-SCGO] INFO /error404
+2016/03/25 17:26:42 [ZSXM-SCGO] INFO HTTP PROT :8080
+2016/03/25 17:26:47 [ZSXM-SCGO] INFO false index.html
+2016/03/25 17:26:47 [ZSXM-SCGO] INFO 未找到 URL  / ,请求方式 GET
+2016/03/25 17:28:15 [ZSXM-SCGO] INFO HTTP PROT :8080
+2016/03/25 17:28:22 [ZSXM-SCGO] INFO true
+2016/03/25 17:29:20 [ZSXM-SCGO] INFO HTTP PROT :8080
+2016/03/25 17:29:21 [ZSXM-SCGO] INFO ---------  / map[/error404:0xc0820e2ab0 /error500:0xc0820e2ae0 /genconf/index:0xc0820e2b10]
+2016/03/25 17:29:21 [ZSXM-SCGO] INFO ---------  /static/js/jquery/jquery-1.11.3.min.js map[/error404:0xc0820e2ab0 /error500:0xc0820e2ae0 /genconf/index:0xc0820e2b10]
+2016/03/25 17:29:21 [ZSXM-SCGO] INFO ---------  /static/favicon.ico map[/error404:0xc0820e2ab0 /error500:0xc0820e2ae0 /genconf/index:0xc0820e2b10]
+2016/03/25 17:29:58 [ZSXM-SCGO] INFO ---------  / map[/error404:0xc0820e2ab0 /error500:0xc0820e2ae0 /genconf/index:0xc0820e2b10]
+2016/03/25 17:29:58 [ZSXM-SCGO] INFO ---------  /static/js/jquery/jquery-1.11.3.min.js map[/error500:0xc0820e2ae0 /genconf/index:0xc0820e2b10 /error404:0xc0820e2ab0]
+2016/03/25 17:29:58 [ZSXM-SCGO] INFO ---------  /static/favicon.ico map[/genconf/index:0xc0820e2b10 /error404:0xc0820e2ab0 /error500:0xc0820e2ae0]
+2016/03/25 17:30:50 [ZSXM-SCGO] INFO ---------  /genconf/index map[/error404:0xc0820e2ab0 /error500:0xc0820e2ae0 /genconf/index:0xc0820e2b10]
+2016/03/25 17:30:50 [ZSXM-SCGO] INFO ---------  /favicon.ico map[/error500:0xc0820e2ae0 /genconf/index:0xc0820e2b10 /error404:0xc0820e2ab0]
+2016/03/25 17:30:50 [ZSXM-SCGO] INFO 未找到 URL  /favicon.ico ,请求方式 GET
+2016/03/25 17:30:50 [ZSXM-SCGO] INFO ---------  /error404 map[/error500:0xc0820e2ae0 /genconf/index:0xc0820e2b10 /error404:0xc0820e2ab0]
+2016/03/25 17:30:52 [ZSXM-SCGO] INFO ---------  /genconf/index map[/genconf/index:0xc0820e2b10 /error404:0xc0820e2ab0 /error500:0xc0820e2ae0]
+2016/03/25 17:30:52 [ZSXM-SCGO] INFO ---------  /favicon.ico map[/error404:0xc0820e2ab0 /error500:0xc0820e2ae0 /genconf/index:0xc0820e2b10]
+2016/03/25 17:30:52 [ZSXM-SCGO] INFO 未找到 URL  /favicon.ico ,请求方式 GET
+2016/03/25 17:30:52 [ZSXM-SCGO] INFO ---------  /error404 map[/error404:0xc0820e2ab0 /error500:0xc0820e2ae0 /genconf/index:0xc0820e2b10]
+2016/03/25 17:30:52 [ZSXM-SCGO] INFO ---------  /genconf/index map[/genconf/index:0xc0820e2b10 /error404:0xc0820e2ab0 /error500:0xc0820e2ae0]
+2016/03/25 17:30:52 [ZSXM-SCGO] INFO ---------  /favicon.ico map[/error404:0xc0820e2ab0 /error500:0xc0820e2ae0 /genconf/index:0xc0820e2b10]
+2016/03/25 17:30:52 [ZSXM-SCGO] INFO 未找到 URL  /favicon.ico ,请求方式 GET
+2016/03/25 17:30:52 [ZSXM-SCGO] INFO ---------  /error404 map[/error404:0xc0820e2ab0 /error500:0xc0820e2ae0 /genconf/index:0xc0820e2b10]
+2016/03/25 17:30:55 [ZSXM-SCGO] INFO ---------  /genconf/index map[/error404:0xc0820e2ab0 /error500:0xc0820e2ae0 /genconf/index:0xc0820e2b10]
+2016/03/25 17:30:55 [ZSXM-SCGO] INFO ---------  /favicon.ico map[/error500:0xc0820e2ae0 /genconf/index:0xc0820e2b10 /error404:0xc0820e2ab0]
+2016/03/25 17:30:55 [ZSXM-SCGO] INFO 未找到 URL  /favicon.ico ,请求方式 GET
+2016/03/25 17:30:55 [ZSXM-SCGO] INFO ---------  /error404 map[/error404:0xc0820e2ab0 /error500:0xc0820e2ae0 /genconf/index:0xc0820e2b10]
+2016/03/25 17:31:52 [ZSXM-SCGO] INFO HTTP PROT :8080
+2016/03/25 17:32:00 [ZSXM-SCGO] INFO 未找到 URL  /genconf/inde1 ,请求方式 GET
+2016/03/25 17:44:28 [ZSXM-SCGO] INFO 未找到 URL  /static/css/bootstrap/bootstrap.min.css.map ,请求方式 GET
+2016/03/25 17:44:32 [ZSXM-SCGO] INFO 未找到 URL  /static/css/bootstrap/bootstrap.min.css.map ,请求方式 GET
+2016/03/25 17:55:01 [ZSXM-SCGO] INFO HTTP PROT :8080
+2016/03/25 18:06:16 [ZSXM-SCGO] INFO 未找到 URL  /assets/img/backgrounds/1.jpg ,请求方式 GET
+2016/03/25 18:07:59 [ZSXM-SCGO] INFO 未找到 URL  /assets/img/backgrounds/1.jpg ,请求方式 GET
+2016/03/25 18:07:59 [ZSXM-SCGO] INFO 未找到 URL  /assets/img/backgrounds/1.jpg ,请求方式 GET
+2016/03/25 18:08:21 [ZSXM-SCGO] INFO 未找到 URL  /assets/img/backgrounds/1.jpg ,请求方式 GET
+2016/03/25 18:09:00 [ZSXM-SCGO] INFO 未找到 URL  /static/css/fonts/fontawesome-webfont.woff2 ,请求方式 GET
+2016/03/25 18:09:00 [ZSXM-SCGO] INFO 未找到 URL  /assets/img/backgrounds/1.jpg ,请求方式 GET
+2016/03/25 18:09:00 [ZSXM-SCGO] INFO 未找到 URL  /static/css/fonts/fontawesome-webfont.woff ,请求方式 GET
+2016/03/25 18:09:01 [ZSXM-SCGO] INFO 未找到 URL  /static/css/fonts/fontawesome-webfont.ttf ,请求方式 GET
+2016/03/25 18:09:53 [ZSXM-SCGO] INFO 未找到 URL  /assets/img/backgrounds/1.jpg ,请求方式 GET
+2016/03/25 18:09:55 [ZSXM-SCGO] INFO 未找到 URL  /assets/img/backgrounds/1.jpg ,请求方式 GET
+2016/03/25 18:09:58 [ZSXM-SCGO] INFO 未找到 URL  /assets/img/backgrounds/1.jpg ,请求方式 GET
+2016/03/25 18:11:28 [ZSXM-SCGO] INFO 未找到 URL  /assets/img/backgrounds/1.jpg ,请求方式 GET
+2016/03/25 18:29:21 [ZSXM-SCGO] INFO 未找到 URL  /static/css/comm/fonts/fontawesome-webfont.woff2 ,请求方式 GET
+2016/03/25 18:29:21 [ZSXM-SCGO] INFO 未找到 URL  /static/css/comm/fonts/fontawesome-webfont.woff ,请求方式 GET
+2016/03/25 18:29:21 [ZSXM-SCGO] INFO 未找到 URL  /static/css/comm/fonts/fontawesome-webfont.ttf ,请求方式 GET
+2016/03/25 18:37:29 [ZSXM-SCGO] INFO 未找到 URL  /static/fonts/glyphicons-halflings-regular.woff2 ,请求方式 GET
+2016/03/25 18:37:29 [ZSXM-SCGO] INFO 未找到 URL  /static/fonts/glyphicons-halflings-regular.woff ,请求方式 GET
+2016/03/25 18:37:29 [ZSXM-SCGO] INFO 未找到 URL  /static/fonts/glyphicons-halflings-regular.ttf ,请求方式 GET
+2016/03/25 18:37:37 [ZSXM-SCGO] INFO 未找到 URL  /static/fonts/glyphicons-halflings-regular.eot ,请求方式 GET
+2016/03/25 18:37:49 [ZSXM-SCGO] INFO 未找到 URL  /static/fonts/glyphicons-halflings-regular.woff2 ,请求方式 GET
+2016/03/25 18:37:49 [ZSXM-SCGO] INFO 未找到 URL  /static/fonts/glyphicons-halflings-regular.woff ,请求方式 GET
+2016/03/25 18:37:49 [ZSXM-SCGO] INFO 未找到 URL  /static/fonts/glyphicons-halflings-regular.ttf ,请求方式 GET
+2016/03/25 18:38:14 [ZSXM-SCGO] INFO HTTP PROT :8080
+2016/03/25 18:38:43 [ZSXM-SCGO] INFO HTTP PROT :8080
+2016/03/25 18:44:41 [ZSXM-SCGO] INFO HTTP PROT :8080
+2016/03/25 18:44:52 [user] INFO login
+2016/03/25 18:47:56 [ZSXM-SCGO] INFO HTTP PROT :8080
+2016/03/25 18:48:03 [user] INFO login
+2016/03/25 18:48:50 [ZSXM-SCGO] INFO HTTP PROT :8080
+2016/03/25 18:48:52 [user] INFO login

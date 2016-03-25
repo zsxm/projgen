@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+      	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>首页</title>
+		<link rel="shortcut icon" type="image/ico" href="/static/favicon.ico">
+		<link rel="stylesheet" href="/static/css/comm/font-awesome.min.css" >
+		<link rel="stylesheet" href="/static/css/comm/bootstrap/bootstrap.min.css" >
+		<link rel="stylesheet" href="/static/css/login/form-elements.css" >
+		<link rel="stylesheet" href="/static/css/login/style.css" >
+		<script type="text/javascript" src="/static/js/comm/jquery/jquery-1.11.3.min.js"></script>
+		<script type="text/javascript" src="/static/js/comm/bootstrap/bootstrap.min.js"></script>
+		<script type="text/javascript" src="/static/js/comm/backstretch/backstretch.min.js"></script>
+		<script type="text/javascript" src="/static/js/comm/lufylegend/lufylegend-1.10.0.js"></script>
+		<script type="text/javascript" src="/static/js/login/login.js"></script>
+	</head>
+	<body>
+        <div class="top-content">
+            <div class="inner-bg">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-7 col-sm-offset-2 form-box">
+                        	<div class="form-top">
+                        		<div class="form-top-left">
+                        			<h3>登录</h3>
+                            		<p>请输入用户名和密码</p>
+                        		</div>
+                        		<div class="form-top-right">
+                        			<i class="fa">SCGO</i>
+                        		</div>
+                            </div>
+                            <div class="form-bottom">
+			                    <form role="form" action="/user/login" method="post" class="login-form">
+			                    	<div class="form-group">
+			                    		<label class="sr-only" for="form-username">用户名</label>
+			                        	<input type="text" name="form-username" placeholder="用户名..." class="form-username form-control" id="form-username">
+			                        </div>
+			                        <div class="form-group">
+			                        	<label class="sr-only" for="form-password">密码</label>
+			                        	<input type="password" name="form-password" placeholder="密码..." class="form-password form-control" id="form-password">
+			                        </div>
+			                        <button type="submit" class="btn">登 录!</button>
+			                    </form>
+		                    </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+	
+	</body>
+</html>
