@@ -21,5 +21,6 @@ func index(c chttp.Context) {
 
 func login(c chttp.Context) {
 	log.Println("login")
+
 	c.Redirect("/genconf/index")
 }

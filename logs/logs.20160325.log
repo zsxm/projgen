@@ -96,3 +96,9 @@
 2016/03/25 18:48:03 [user] INFO login
 2016/03/25 18:48:50 [ZSXM-SCGO] INFO HTTP PROT :8080
 2016/03/25 18:48:52 [user] INFO login
+2016/03/25 18:53:04 [user] INFO login
+2016/03/25 18:54:28 [user] INFO login
+2016/03/26 16:27:16 [ZSXM-SCGO] INFO 未找到 URL  /user/login ,请求方式 POST ,当前请求方式 GET
+2016/03/26 16:30:06 [ZSXM-SCGO] INFO 未找到 URL  /user/login ,请求方式 POST ,当前请求方式 GET
+2016/03/28 09:38:18 [user] INFO login
+2016/03/28 09:38:59 [user] INFO login
